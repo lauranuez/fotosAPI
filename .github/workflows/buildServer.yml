@@ -32,4 +32,4 @@ jobs:
 
 
       - name: Run backend
-        run: npm run start
+        run: npm run build
